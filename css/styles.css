@@ -74,7 +74,7 @@ text-decoration: none;
 }
 .button-order-service:hover,
 .button-order-service:focus {
-color: #fff;
+background-color: #404bb8;
 }
 
 /*Our Features*/
