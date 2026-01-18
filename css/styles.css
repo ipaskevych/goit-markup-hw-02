@@ -19,7 +19,7 @@ text-decoration: none;
     font-size: 56px;
     font-weight: 700;
     text-align: center; 
-    line-height: 1.1;
+    line-height: 1.07143;
     letter-spacing: 0.02em;
      }
 .logo {
@@ -64,15 +64,17 @@ text-decoration: none;
     color: #434455; 
 }
 .button-order-service {
-    border-radius: 4px;
-    padding-block: 16px;
-    padding-inline: 32px;
     background-color: #4d5ae5;
-    line-height: 1.5;
+    line-height: 1.5; 
     letter-spacing: 0.04em;
     color: #fff;
     font-weight: 500;
     font-size: 16px;
+    cursor: pointer;
+}
+.button-order-service:hover,
+.button-order-service:focus {
+color: #fff;
 }
 
 /*Our Features*/
@@ -99,7 +101,7 @@ text-decoration: none;
 .team-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11111;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -164,4 +166,9 @@ color: #434455;
 .logo-info {
     color: #F4F4FD;
     font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-weight: 400;
+    font-size: 16px;
+        
 }
