@@ -61,6 +61,7 @@ text-decoration: none;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    font-weight: 400;
     color: #434455; 
 }
 .button-order-service {
@@ -74,7 +75,7 @@ text-decoration: none;
 }
 .button-order-service:hover,
 .button-order-service:focus {
-background-color: #404bb8;
+background-color: #404bbf;
 }
 
 /*Our Features*/
@@ -169,6 +170,5 @@ color: #434455;
     line-height: 1.5;
     letter-spacing: 0.02em;
     font-weight: 400;
-    font-size: 16px;
-        
+    font-size: 16px;    
 }
